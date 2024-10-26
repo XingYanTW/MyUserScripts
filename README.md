@@ -10,3 +10,15 @@ Auto inject mai-tools script
 
 [[INSTALL]](https://github.com/XingYanTW/MyUserScripts/raw/refs/heads/main/mai-tools%20auto%20inject-2024-06-15.user.js)
 [[Mai-Tools]](https://myjian.github.io/mai-tools/?hl=zh-TW)
+
+## JPY to TWD Price Converter
+日幣轉台幣
+
+[[INSTALL]](https://github.com/XingYanTW/MyUserScripts/raw/refs/heads/main/JPY%20to%20TWD%20Price%20Converter-0.4.user.js)
+
+支持
+- Fantia
+- Fanbox
+- booth
+
+
