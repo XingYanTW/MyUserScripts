@@ -8,8 +8,8 @@
 // @include         https://www.fanbox.cc*
 // @include         https://*fantia.jp/*
 // @grant        none
-// @downloadURL
-// @updateURL
+// @downloadURL https://github.com/XingYanTW/MyUserScripts/raw/refs/heads/main/JPY%20to%20TWD%20Price%20Converter-0.4.user.js
+// @updateURL https://github.com/XingYanTW/MyUserScripts/raw/refs/heads/main/JPY%20to%20TWD%20Price%20Converter-0.4.user.js
 // ==/UserScript==
 
 (function () {
