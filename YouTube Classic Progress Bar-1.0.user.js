@@ -15,6 +15,9 @@ function addStyle() {
     .ytp-cairo-refresh-signature-moments .ytp-play-progress {
         background: #f03 !important;
     }
+    ytd-thumbnail-overlay-resume-playback-renderer[enable-refresh-signature-moments-web] #progress.ytd-thumbnail-overlay-resume-playback-renderer {
+	background: #f03 !important;
+    }
     `;
     let style = document.createElement("style");
     style.type = "text/css";
