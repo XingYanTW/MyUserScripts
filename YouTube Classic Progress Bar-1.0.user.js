@@ -4,10 +4,12 @@
 // @version      1.0
 // @description  Revert YouTube's progress bar to a solid color (removes fade to pink at the end).
 // @author       xy
-// @match        *://www.youtube.com/watch?v=*
-// @match        *://www.youtube.com/shorts/*
+// @include        *://www.youtube.com/watch?v=*
+// @include        *://www.youtube.com/shorts/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @grant        none
+// @downloadURL https://github.com/XingYanTW/MyUserScripts/raw/refs/heads/main/YouTube%20Classic%20Progress%20Bar-1.0.user.js
+// @updateURL  https://github.com/XingYanTW/MyUserScripts/raw/refs/heads/main/YouTube%20Classic%20Progress%20Bar-1.0.user.js
 // ==/UserScript==
 
 function addStyle() {
