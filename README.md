@@ -1,27 +1,6 @@
-# Collection To My Some Simple User Scripts
-
-## YouTube Classic Progress Bar
-Revert YouTube's progress bar to a solid color (removes fade to pink at the end). 
-
-[[INSTALL]](https://github.com/XingYanTW/MyUserScripts/raw/refs/heads/main/YouTube%20Classic%20Progress%20Bar-1.0.user.js)
-
-## mai-tools auto inject
-Auto inject mai-tools script
-
-[[INSTALL]](https://github.com/XingYanTW/MyUserScripts/raw/refs/heads/main/mai-tools%20auto%20inject-2024-06-15.user.js)
-[[Mai-Tools]](https://myjian.github.io/mai-tools/?hl=zh-TW)
-
-## JPY to TWD Price Converter
-日幣轉台幣
-
-[[INSTALL]](https://github.com/XingYanTW/MyUserScripts/raw/refs/heads/main/JPY%20to%20TWD%20Price%20Converter-0.4.user.js)
-
-支持
-- Fantia
-- Fanbox
-- booth
-
-## YouTube Grid Columns Modifier
-Modify Youtube's Homepage grid columns
-
-[[INSTALL]](https://github.com/XingYanTW/MyUserScripts/raw/refs/heads/main/YouTube%20Grid%20Columns%20Modifier-1.0.user.js)
+| <br>標題                     | 描述                                                                           | 安裝                                                                                                                     | 相關連結                                                    |
+|-------------------------------|--------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| YouTube 經典進度條  | 將YouTube進度條恢復為**單一色調**<br>(移除末尾**漸變粉色**的效果) | [[安裝]](https://github.com/XingYanTW/MyUserScripts/raw/refs/heads/main/YouTube%20Classic%20Progress%20Bar-1.0.user.js)  |                                                             |
+| mai-tools 自動注入         | 自動載入mai-tools腳本                                                          | [[安裝]](https://github.com/XingYanTW/MyUserScripts/raw/refs/heads/main/mai-tools%20auto%20inject-2024-06-15.user.js)    | [[Mai-Tools官網]](https://myjian.github.io/mai-tools/?hl=zh-TW) |
+| 日圓轉新台幣價格轉換器    | 將網站的日圓價格**即時顯示**新台幣匯率<br>支援平台: Fantia、Fanbox、Booth等 | [[安裝]](https://github.com/XingYanTW/MyUserScripts/raw/refs/heads/main/JPY%20to%20TWD%20Price%20Converter-0.4.user.js)  |                                                             |
+| YouTube 首頁欄位調整工具 | 自訂YouTube首頁的影片欄位數量                                               | [[安裝]](https://github.com/XingYanTW/MyUserScripts/raw/refs/heads/main/YouTube%20Grid%20Columns%20Modifier-1.0.user.js) |                                                             |
