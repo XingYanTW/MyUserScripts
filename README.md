@@ -21,4 +21,7 @@ Auto inject mai-tools script
 - Fanbox
 - booth
 
+## YouTube Grid Columns Modifier
+Modify Youtube's Homepage grid columns
 
+[[INSTALL]](https://github.com/XingYanTW/MyUserScripts/raw/refs/heads/main/YouTube%20Grid%20Columns%20Modifier-1.0.user.js)
